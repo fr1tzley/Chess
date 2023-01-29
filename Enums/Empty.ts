@@ -1,0 +1,3 @@
+export enum Empty {
+    EMPTY
+}
